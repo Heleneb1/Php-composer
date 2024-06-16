@@ -11,5 +11,8 @@
             "email": "helene.blanche@hotmail.fr"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/mailer": "^7.1",
+        "gipetto/cowsay": "^1.2"
+    }
 }
